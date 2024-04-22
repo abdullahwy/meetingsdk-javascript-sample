@@ -1,13 +1,13 @@
 ZoomMtg.preLoadWasm()
 ZoomMtg.prepareWebSDK()
 
-var authEndpoint = ''
-var sdkKey = ''
+var authEndpoint = 'http://localhost:4000'
+var sdkKey = '8pD1KGKTtO5K4bJYxgCHQ'
 var meetingNumber = '123456789'
 var passWord = ''
-var role = 0
+var role = 1
 var userName = 'JavaScript'
-var userEmail = ''
+var userEmail = 'arabdullah882@gmail.com'
 var registrantToken = ''
 var zakToken = ''
 var leaveUrl = 'https://zoom.us'
